@@ -26,35 +26,3 @@ each nucleotide with its complement:
 For more help on how to solve this exercise, please refer to the tutorial provided as part of the hello world exercise:
 [TUTORIAL.md](https://github.com/exercism/java/blob/master/exercises/hello-world/TUTORIAL.md)
 
-## Source
-
-### Created by
-
-- @PaulNoth
-
-### Contributed to by
-
-- @aadityakulkarni
-- @alis0nc
-- @FridaTveit
-- @jmrunkle
-- @jsertel
-- @jtigger
-- @kytrinyx
-- @lemoncurry
-- @matthewmorgan
-- @McEileen
-- @msomji
-- @muzimuzhi
-- @sjwarner
-- @sjwarner-bp
-- @SleeplessByte
-- @Smarticles101
-- @sshine
-- @stkent
-- @vdemeester
-- @Zaldrick
-
-### Based on
-
-Hyperphysics - http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/transcription.html
